@@ -5,7 +5,12 @@
 html {
     scroll-behavior: smooth;
 }
-
+.footer{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-bottom: 20px;
+}
 .shop-other{
     padding: 8px 20px;
     margin:7px 0px;
